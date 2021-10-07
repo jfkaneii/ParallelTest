@@ -1,0 +1,7 @@
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\bin\Debug\ParallelTest.exe.config
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\bin\Debug\ParallelTest.exe
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\bin\Debug\ParallelTest.pdb
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\obj\Debug\ParallelTest.csprojAssemblyReference.cache
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\obj\Debug\ParallelTest.csproj.CoreCompileInputs.cache
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\obj\Debug\ParallelTest.exe
+C:\Users\jim.kane\source\repos\ParallelTest\ParallelTest\obj\Debug\ParallelTest.pdb
